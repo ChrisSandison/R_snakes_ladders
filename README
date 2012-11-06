@@ -1,0 +1,4 @@
+For STA247 Assignment:
+- Task was to create a snakes and ladders type game in R
+- The first version included uses dice to play the game
+- The second version uses a transition matrix based on the gameboard in order to progress the game
